@@ -1,7 +1,7 @@
 #include <iostream>
 
 void func() {
-  std::cout << "NO";
+  std::cout << "YES";
 }
 
 int main() {
